@@ -2,43 +2,43 @@
     "RepositoryName": "Weans Repo's MDC",
     "RepositoryDescription": "Weans Repo's MDC",
     "RepositoryAuthor": "Weans",
-    "RepositoryIcon": "https://github.com/HHNiOS/MDCRepo/raw/main/img/avt/Avatar.jpg",
-    "RepositoryWebsite": "https://github.com/HHNiOS/MDCRepo/",
+    "RepositoryIcon": "https://github.com/WeansHHN/MDCRepo/raw/main/img/avt/Avatar.jpg",
+    "RepositoryWebsite": "https://github.com/WeansHHN/MDCRepo/",
 	"Default":{
-        "HeaderImage": "https://github.com/HHNiOS/MDCRepo/raw/main/img/avt/banner.gif",
+        "HeaderImage": "https://github.com/WeansHHN/MDCRepo/raw/main/img/avt/banner.gif",
         "ViewCount": true
     },
     "RepositoryContents": [
         {
-            "Name": "Paimon Lock",
-            "Description": "Change the padlock icon to Paimon",
+            "Name": "Mikasa AOT Lock",
+            "Description": "Change the padlock icon to Mikasa",
             "Author": {
                 "Label": "Weans HHN",
                 "Links": [
                     {
                         "Label": "Weans HHN",
-                        "Link": "https://hhnios.github.io/"
+                        "Link": "https://hhnios.site/"
                     }
                 ]
             },
-            "Icon": "https://github.com/HHNiOS/MDCRepo/raw/main/img/repoimg/iconpaimonlock.jpg",
-            "HeaderImage": "https://github.com/HHNiOS/MDCRepo/raw/main/img/avt/banner.gif",
+            "Icon": "https://github.com/WeansHHN/MDCRepo/raw/main/img/repoimg/iconmikasa.jpg",
+            "HeaderImage": "https://github.com/WeansHHN/MDCRepo/raw/main/img/avt/banner.gif",
             "Category": "Lock",
             "Caption": "Apple home screen padlock icon. Change icon to support MDC devices",
             "Screenshot": [
-                "https://github.com/HHNiOS/MDCRepo/raw/main/img/repoimg/lockpaimon.jpg"
+                "https://github.com/WeansHHN/MDCRepo/raw/main/img/repoimg/mikasa.jpg"
             ]
             "Screenshot": [
-                "https://github.com/HHNiOS/MDCRepo/raw/main/img/repoimg/unlockpaimon.jpg"
+                "https://github.com/WeansHHN/MDCRepo/raw/main/img/repoimg/mikasa.jpg"
             ],
 			"Releases": [
               {
                   "Version": "0.1.0",
-                  "Package": "https://github.com/HHNiOS/MDCRepo/raw/main/file/com.weans.paimonlock0.1.0.misaka",
+                  "Package": "https://github.com/WeansHHN/MDCRepo/raw/main/file/com.weanshhn.aotmikasa.misaka",
                   "Description": "Apple home screen padlock icon. Change icon to support MDC devices"
               }
             ],
-            "PackageID": "com.weans.paimonlock0.1.0.misaka"
+            "PackageID": "com.weanshhn.aotmikasa.misaka"
         }
 		
     ]
