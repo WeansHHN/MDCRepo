@@ -52,12 +52,12 @@
                 ]
             },
             "ViewCount": true,
-            "Icon": "https://github.com/WeansHHN/MDCRepo/raw/main/img/repoimg/iconpaimon.png",
+            "Icon": "https://github.com/WeansHHN/MDCRepo/raw/main/img/repoimg/iconpaimon.jpg",
             "HeaderImage": "https://github.com/WeansHHN/MDCRepo/raw/main/img/avt/banner.gif",
             "Category": "Lock",
             "Caption": "Apple home screen padlock icon. Change icon to support MDC devices.",
-            "Screenshot": ["https://github.com/WeansHHN/MDCRepo/raw/main/img/repoimg/paimon1.png"],
-            "Screenshot": ["https://github.com/WeansHHN/MDCRepo/raw/main/img/repoimg/paimon2.png"],
+            "Screenshot": ["https://github.com/WeansHHN/MDCRepo/raw/main/img/repoimg/paimon1.jpg"],
+            "Screenshot": ["https://github.com/WeansHHN/MDCRepo/raw/main/img/repoimg/paimon2.jpg"],
             "Releases": [
                 {
                     "Version": "1.0",
