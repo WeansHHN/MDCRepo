@@ -6,36 +6,7 @@
     "RepositoryWebsite": "https://github.com/WeansHHN/MDCRepo/",
     "DefaultHeaderImage": "",
     "RepositoryContents": [
-        {
-            "Name": "Mikasa AOT Lock",
-            "Description": "Change the padlock icon to Mikasa",
-            "Author": {
-                "Label": "Weans HHN",
-                "Links": [
-                    
-                    {
-                        "Label": "Weans HHN",
-                        "Link": "https://hhnios.site/"
-                    }
-                ]
-            },
-            "ViewCount": true,
-            "Icon": "https://github.com/WeansHHN/MDCRepo/raw/main/img/repoimg/iconmikasa.png",
-            "HeaderImage": "https://github.com/WeansHHN/MDCRepo/raw/main/img/avt/banner.gif",
-            "Category": "Lock",
-            "Caption": "Apple home screen padlock icon. Change icon to support MDC devices.",
-            "Screenshot": ["https://github.com/WeansHHN/MDCRepo/raw/main/img/repoimg/mikasa.png"],
-            "Releases": [
-                {
-                    "Version": "1.0",
-                    "Package": "https://github.com/WeansHHN/MDCRepo/raw/main/file/com.weanshhn.aotmikasa.misaka",
-                    "Description": "Apple home screen padlock icon. Change icon to support MDC devices"
-                },
-            ],
-            "PackageID": "com.weanshhn.aotmikasa.misaka"
-        }
-
-
+        
 
 
         {
