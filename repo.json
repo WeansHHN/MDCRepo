@@ -4,21 +4,86 @@
     "RepositoryAuthor": "Weans",
     "RepositoryIcon": "https://github.com/WeansHHN/MDCRepo/raw/main/img/avt/Avatar.jpg",
     "RepositoryWebsite": "https://github.com/WeansHHN/MDCRepo/",
-    "DefaultHeaderImage": "",
+    "DefaultHeaderImage": "https://github.com/WeansHHN/MDCRepo/raw/main/img/avt/banner.gif",
     "RepositoryContents": [
+        
+
         
 
 
         {
-            "Name": "Paimon Lock",
-            "Description": "Change the padlock icon to Mikasa",
+            "Name": "5G Vi",
+            "Description": "Change LTE to 5G on Mikasa",
             "Author": {
                 "Label": "Weans HHN",
                 "Links": [
                     
                     {
                         "Label": "Weans HHN",
-                        "Link": "https://hhnios.site/"
+                        "Link": "https://twitter.com/hhnios_weans"
+                    }
+                ]
+            },
+            "ViewCount": true,
+            "Icon": "https://github.com/WeansHHN/MDCRepo/raw/main/img/repoimg/icon5g.jpg",
+            "HeaderImage": "https://github.com/WeansHHN/MDCRepo/raw/main/img/avt/banner.gif",
+            "Category": "5G",
+            "Caption": "Change LTE to 5G on Mikasa",
+            "Screenshot": ["https://github.com/WeansHHN/MDCRepo/raw/main/img/repoimg/5g.jpg"],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://github.com/WeansHHN/MDCRepo/raw/main/file/com.weanshhn.5g.misaka",
+                    "Description": "Apple home screen padlock icon. Change icon to support MDC devices"
+                }
+            ],
+            "PackageID": "com.weanshhn.5g"
+        }, 
+
+
+
+        {
+            "Name": "Cocon Pro",
+            "Description": "Change font on Mikasa",
+            "Author": {
+                "Label": "Weans HHN",
+                "Links": [
+                    
+                    {
+                        "Label": "Weans HHN",
+                        "Link": "https://twitter.com/hhnios_weans"
+                    }
+                ]
+            },
+            "ViewCount": true,
+            "Icon": "https://github.com/WeansHHN/MDCRepo/raw/main/img/repoimg/iconcocon.jpg",
+            "HeaderImage": "https://github.com/WeansHHN/MDCRepo/raw/main/img/avt/banner.gif",
+            "Category": "Font",
+            "Caption": "Change font on Mikasa",
+            "Screenshot": ["https://github.com/WeansHHN/MDCRepo/raw/main/img/repoimg/coconpro.jpg"],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://github.com/WeansHHN/MDCRepo/raw/main/file/com.weanshhn.CoConPro.misaka",
+                    "Description": "Apple home screen padlock icon. Change icon to support MDC devices"
+                }
+            ],
+            "PackageID": "com.weanshhn.CoconPro"
+        },
+
+
+
+
+        {
+            "Name": "Paimon Lock",
+            "Description": "Change the padlock icon on Mikasa",
+            "Author": {
+                "Label": "Weans HHN",
+                "Links": [
+                    
+                    {
+                        "Label": "Weans HHN",
+                        "Link": "https://twitter.com/hhnios_weans"
                     }
                 ]
             },
@@ -38,7 +103,6 @@
             ],
             "PackageID": "com.weanshhn.paimon"
         }
-
         
 
         
