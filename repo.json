@@ -34,7 +34,7 @@
                     "Version": "1.0",
                     "Package": "https://github.com/WeansHHN/MDCRepo/raw/main/file/com.weanshhn.paimon.misaka",
                     "Description": "Apple home screen padlock icon. Change icon to support MDC devices"
-                },
+                }
             ],
             "PackageID": "com.weanshhn.paimon"
         }
