@@ -29,7 +29,6 @@
             "HeaderImage": "https://github.com/WeansHHN/MDCRepo/raw/main/img/avt/banner.gif",
             "Category": "5G",
             "Caption": "Change LTE to 5G on Mikasa",
-            "Screenshot": ["https://github.com/WeansHHN/MDCRepo/raw/main/img/repoimg/5g.jpg"],
             "Releases": [
                 {
                     "Version": "1.0",
