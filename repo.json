@@ -63,7 +63,7 @@
             "Releases": [
                 {
                     "Version": "1.0",
-                    "Package": "https://github.com/WeansHHN/MDCRepo/raw/main/file/com.weanshhn.CoConPro.misaka",
+                    "Package": "https://github.com/WeansHHN/MDCRepo/raw/main/file/com.weanshhn.CoconPro.misaka",
                     "Description": "Apple home screen padlock icon. Change icon to support MDC devices"
                 }
             ],
